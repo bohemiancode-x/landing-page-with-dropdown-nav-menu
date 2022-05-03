@@ -456,6 +456,10 @@ body {
         /* margin-bottom: auto; */
     }
 
+    .nav-overlay-bg {
+        display: none;
+    }
+
     .heropage {
         display: flex;
         justify-content: space-between;
